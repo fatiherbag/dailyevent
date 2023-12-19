@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## USED
+
+- shadcn/ui=> ui
+  sheet => For mobile model to display mobile navbar
+
+uploadthing=> upload files
+clerk => for setting auth
+mongodb=> mongodb atlas
+webhook => event triggering , make request, process that event.
+
+##
+
 First, run the development server:
 
 ```bash
