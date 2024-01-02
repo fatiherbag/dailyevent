@@ -11,9 +11,10 @@ uploadthing=> upload files
 clerk => for setting auth
 mongodb=> mongodb atlas
 webhook => event triggering , make request, process that event.
+stripe => purchasing events
 
 ##
-
+ 
 First, run the development server:
 
 ```bash
